@@ -1,0 +1,9 @@
+C:\Users\gamef\source\repos\PizzaOrderApp1\PizzaOrderApp1\bin\Debug\PizzaOrderApp1.exe.config
+C:\Users\gamef\source\repos\PizzaOrderApp1\PizzaOrderApp1\bin\Debug\PizzaOrderApp1.exe
+C:\Users\gamef\source\repos\PizzaOrderApp1\PizzaOrderApp1\bin\Debug\PizzaOrderApp1.pdb
+C:\Users\gamef\source\repos\PizzaOrderApp1\PizzaOrderApp1\obj\Debug\PizzaOrderApp1.Form1.resources
+C:\Users\gamef\source\repos\PizzaOrderApp1\PizzaOrderApp1\obj\Debug\PizzaOrderApp1.Properties.Resources.resources
+C:\Users\gamef\source\repos\PizzaOrderApp1\PizzaOrderApp1\obj\Debug\PizzaOrderApp1.csproj.GenerateResource.cache
+C:\Users\gamef\source\repos\PizzaOrderApp1\PizzaOrderApp1\obj\Debug\PizzaOrderApp1.csproj.CoreCompileInputs.cache
+C:\Users\gamef\source\repos\PizzaOrderApp1\PizzaOrderApp1\obj\Debug\PizzaOrderApp1.exe
+C:\Users\gamef\source\repos\PizzaOrderApp1\PizzaOrderApp1\obj\Debug\PizzaOrderApp1.pdb
